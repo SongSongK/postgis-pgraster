@@ -14,3 +14,5 @@ docker run --name postgis \
 [https://pkgs.org/search/?q=raster2pgsql&on=files](https://pkgs.org/search/?q=raster2pgsql&on=files)
 ## 当前文件下载地址
 [https://apt.postgresql.org/pub/repos/apt/pool/main/p/postgis/postgis_3.3.2+dfsg-1.pgdg110+1_amd64.deb](https://apt.postgresql.org/pub/repos/apt/pool/main/p/postgis/postgis_3.3.2+dfsg-1.pgdg110+1_amd64.deb)
+## dockerHub仓库地址
+[https://hub.docker.com/repository/docker/ikuu/postgis](https://hub.docker.com/repository/docker/ikuu/postgis)
